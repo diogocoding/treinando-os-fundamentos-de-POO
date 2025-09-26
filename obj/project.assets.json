@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\diogo\\.nuget\\packages\\": {}
+    "C:\\Users\\aluno\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ExemploPOO\\ExemploPOO.csproj",
+      "projectUniqueName": "C:\\trainingggggggggggg\\ExemploPOO\\ExemploPOO.csproj",
       "projectName": "ExemploPOO",
-      "projectPath": "C:\\ExemploPOO\\ExemploPOO.csproj",
-      "packagesPath": "C:\\Users\\diogo\\.nuget\\packages\\",
-      "outputPath": "C:\\ExemploPOO\\obj\\",
+      "projectPath": "C:\\trainingggggggggggg\\ExemploPOO\\ExemploPOO.csproj",
+      "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
+      "outputPath": "C:\\trainingggggggggggg\\ExemploPOO\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\diogo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
