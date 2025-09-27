@@ -1,17 +1,17 @@
-﻿using ExemploPOO.Models;
+﻿using Pootrainig.Models;
+using Pootrainig.Interfaces;
 
-
-Conta c = new Conta();
-
-
-
-
+ICalculadora calc = new Calculadora();
+Console.WriteLine(calc.Multiplicar(4, 5));
 
 
 
 
 
 
+/*Pessoa p1 = new Pessoa("diogo");
+p1.Idade = 21;
+p1.Apresentar();
 
 /*Aluno a1 = new Aluno();
 a1.Nome = "Diogo";

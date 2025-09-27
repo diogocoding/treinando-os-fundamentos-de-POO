@@ -1,0 +1,15 @@
+C:\Pootrainig\obj\Debug\net9.0\Pootrainig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pootrainig\obj\Debug\net9.0\Pootrainig.AssemblyInfoInputs.cache
+C:\Pootrainig\obj\Debug\net9.0\Pootrainig.AssemblyInfo.cs
+C:\Pootrainig\obj\Debug\net9.0\Pootrainig.csproj.CoreCompileInputs.cache
+C:\Pootrainig\obj\Debug\net9.0\Pootrainig.sourcelink.json
+C:\Pootrainig\bin\Debug\net9.0\Pootrainig.exe
+C:\Pootrainig\bin\Debug\net9.0\Pootrainig.deps.json
+C:\Pootrainig\bin\Debug\net9.0\Pootrainig.runtimeconfig.json
+C:\Pootrainig\bin\Debug\net9.0\Pootrainig.dll
+C:\Pootrainig\bin\Debug\net9.0\Pootrainig.pdb
+C:\Pootrainig\obj\Debug\net9.0\Pootrainig.dll
+C:\Pootrainig\obj\Debug\net9.0\refint\Pootrainig.dll
+C:\Pootrainig\obj\Debug\net9.0\Pootrainig.pdb
+C:\Pootrainig\obj\Debug\net9.0\Pootrainig.genruntimeconfig.cache
+C:\Pootrainig\obj\Debug\net9.0\ref\Pootrainig.dll

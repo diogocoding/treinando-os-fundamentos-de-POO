@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Pootrainig\\ExemploPOO.csproj": {}
+    "C:\\Pootrainig\\Pootrainig.csproj": {}
   },
   "projects": {
-    "C:\\Pootrainig\\ExemploPOO.csproj": {
+    "C:\\Pootrainig\\Pootrainig.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Pootrainig\\ExemploPOO.csproj",
-        "projectName": "ExemploPOO",
-        "projectPath": "C:\\Pootrainig\\ExemploPOO.csproj",
+        "projectUniqueName": "C:\\Pootrainig\\Pootrainig.csproj",
+        "projectName": "Pootrainig",
+        "projectPath": "C:\\Pootrainig\\Pootrainig.csproj",
         "packagesPath": "C:\\Users\\diogo\\.nuget\\packages\\",
         "outputPath": "C:\\Pootrainig\\obj\\",
         "projectStyle": "PackageReference",

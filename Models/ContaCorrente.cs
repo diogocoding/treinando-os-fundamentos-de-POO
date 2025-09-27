@@ -4,7 +4,7 @@ using System.Linq;
 using System.Security.Cryptography.X509Certificates;
 using System.Threading.Tasks;
 
-namespace ExemploPOO.Models
+namespace Pootrainig.Models
 {
     public class ContaCorrente
     {

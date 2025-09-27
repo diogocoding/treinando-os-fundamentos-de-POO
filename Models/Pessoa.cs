@@ -2,11 +2,17 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Pootrainig.Models;
 
-namespace ExemploPOO.Models
+namespace Pootrainig.Models
 {
     public class Pessoa
     {
+        public Pessoa (string nome)
+        {
+            this.Nome = nome;
+        }
+
         public string Nome { get; set; }
         public int Idade { get; set; }
 
